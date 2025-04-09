@@ -9,8 +9,7 @@ Hey ! Tu me connais pas ? Je suis redmax : un développeur HTML, CSS, JavaScript
 ## Mes outils avec lesquels j'ai travaillé :
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/discordjs/discordjs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
