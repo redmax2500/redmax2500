@@ -3,7 +3,7 @@
 Hey ! Tu me connais pas ? Je suis redmax : un développeur HTML, CSS, JavaScript et python ! J'adore coder et j'en fait ma passion ! Voici un peu plus d'infos sur moi :
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=redmax2500&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" height="150" alt="languages graph"  />
 </div>
 
 ## Mes outils avec lesquels j'ai travaillé :
